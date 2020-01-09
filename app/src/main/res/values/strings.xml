@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">formulario</string>
+    <string name="formulario_de_registro">Formulario de registro</string>
+    <string name="ingrese_el_nombre">ingrese su nombre</string>
+    <string name="ingrese_el_correo">ingrese su correo</string>
+    <string name="ingrese_el_telefono">ingrese numero de telefono</string>
+    <string name="ingrese_la_contrasena">ingrese su contraseña</string>
+    <string name="repita_contrasena">confirme su contraseña</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="sexo">Sexo</string>
+    <string name="jugar_futbol">Jugar futbol"\n"</string>
+    <string name="cine">Cine"\n"</string>
+    <string name="ver_tv">Ver TV"\n"</string>
+    <string name="pasear_bici">Pasear en bicicleta"\n"</string>
+    <string name="hobbies">Hobbies</string>
+    <string name="Seleccione_fecha_de_nacimiento">fecha de nacimiento</string>
+    <string name="Ingrese_fecha">Seleccione fecha de nacimiento</string>
+    <string name="enviar">Enviar</string>
+    <string name="datos_ingresados">Datos ingresados</string>
+    <string name="Nombre">nombre:</string>
+    <string name="Correo">correo:</string>
+    <string name="Telefono">telefono:</string>
+    <string name="Contraseña">contrasena:</string>
+    <string name="Masculino">masculino</string>
+    <string name="Femenino">femenino</string>
+    <string name="Sexo">sexo:</string>
+    <string name="Pasatiempos">pasatiempos:</string>
+    <string name="Fechadenacimiento">fecha de nacimiento:</string>
+    <string name="seleccione_lugarde_nacimiento">Seleccione lugar de nacimiento</string>
+    <string name="Lugardenacimiento">Lugar de nacimiento:</string>
+    <string name="elegirunaopcion">Elegir una opcion</string>
+
+
+    <string-array name="city_list">
+        <item>Elegir una opcion</item>
+        <item>Medellin</item>
+        <item>Cali</item>
+        <item>Barranquilla</item>
+        <item>Monteria</item>
+        <item>Bogota</item>
+    </string-array>
+</resources>
